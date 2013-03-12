@@ -2,7 +2,7 @@
   "name": "versiondb-cli",
   "description": "Command line interface for versiondb",
   "author": "Bryan Burgers <bryan.burgers@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "http://github.com/bryanburgers/versiondb-cli.git"
